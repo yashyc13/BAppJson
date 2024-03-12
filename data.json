@@ -1,0 +1,11 @@
+{
+    "Bands": {
+      "id": 1,
+      "name": "Shree Ganesh Band",
+      "mobileNumbers": {
+        "mainNumber": "9028175906",
+        "secondNumber": "9561505801"
+      },
+      "registered": true
+    }
+  }
